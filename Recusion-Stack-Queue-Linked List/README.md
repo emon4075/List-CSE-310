@@ -34,5 +34,5 @@
 
 # **Arranged By:**
 ### **[Antor Das]() | [Emran Ali](https://github.com/EmranAli24) | [Abdullah Emon](https://github.com/emon4075)**  
-## **Under the guidance of [Abu Nowshed Chy](https://www.cu.ac.bd/public_profile/index.php?ein=5905)**
+## **Under the guidance of [Dr. Abu Nowshed Chy](https://www.cu.ac.bd/public_profile/index.php?ein=5905)**
 
